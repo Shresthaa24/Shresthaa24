@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Shrestha</h1>
 <h3 align="center">19y/o Frontend developer and a Data Science enthusiast. Currently aspiring to become a full stack developer.</h3>
+<h5 align="center"> I'm currently doing the #100daysofcodechallenge in python and working on some cool python projects.</h5>
 <img align ="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
 
 <p align="left"> 
