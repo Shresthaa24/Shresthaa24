@@ -5,8 +5,11 @@
 <h3 align="center">19y/o Frontend developer and a Data Science enthusiast. Currently aspiring to become a full stack developer.</h3>
 <img align ="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shresthaa24&label=Profile%20views&color=0e75b6&style=flat" alt="shresthaa24" /> </p>
+<p align="left"> 
 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shresthaa24/count.svg" />
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/ahtserhs6" target="blank"><img src="https://img.shields.io/twitter/follow/ahtserhs6?logo=twitter&style=for-the-badge" alt="ahtserhs6" /></a> </p>
