@@ -8,7 +8,7 @@
 
 <p align="left"> 
 
-  Visitor count<br>
+  views count<br>
   <img src="https://profile-counter.glitch.me/shresthaa24/count.svg" />
 </p>
 
