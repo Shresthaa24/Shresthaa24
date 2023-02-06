@@ -6,11 +6,7 @@
 <h5 align="center"> I'm currently doing the #30daysofcodechallenge in python and working on some cool python projects.</h5>
 <img align ="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
 
-<p align="left"> 
 
-  Views Count:<br>
-  <img src="https://profile-counter.glitch.me/shresthaa24/count.svg" />
-</p>
 
 
 <p align="left"> <a href="https://twitter.com/ahtserhs6" target="blank"><img src="https://img.shields.io/twitter/follow/ahtserhs6?logo=twitter&style=for-the-badge" alt="ahtserhs6" /></a> </p>
@@ -38,5 +34,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthaa24&show_icons=true&locale=en&layout=compact" alt="shresthaa24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shresthaa24&show_icons=true&locale=en" alt="shresthaa24" /></p>
+<p align="center"> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shresthaa24&" alt="shresthaa24" /></p>
+  Visitors Count:<br>
+  <img src="https://profile-counter.glitch.me/shresthaa24/count.svg" />
+</p>
+
