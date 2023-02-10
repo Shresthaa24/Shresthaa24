@@ -9,7 +9,8 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/ahtserhs6" target="blank"><img src="https://img.shields.io/twitter/follow/ahtserhs6?logo=twitter&style=for-the-badge" alt="ahtserhs6" /></a> </p>
+<p align="left">  Visitors Count:<br>
+  <img src="https://profile-counter.glitch.me/shresthaa24/count.svg" /></p>
 
 - 🔭 I’m currently working on **my portfolio website**
 
@@ -27,14 +28,16 @@
 <a href="https://www.hackerrank.com/shresthaa_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shresthaa_raj" height="30" width="40" /></a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=shresthaa24&theme=dark-smoky)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shresthaa24&theme=graywhite&show_icons=true)
+
+ 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthaa24&show_icons=true&locale=en&layout=compact" alt="shresthaa24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shresthaa24&show_icons=true&locale=en" alt="shresthaa24" /></p>
-<p align="center"> 
 
-  Visitors Count:<br>
-  <img src="https://profile-counter.glitch.me/shresthaa24/count.svg" />
-</p>
+
+
+
+
 
