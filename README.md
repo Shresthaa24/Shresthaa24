@@ -41,10 +41,10 @@
  
 <h3 align="left">Github Stats:</h3>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=shresthaa24&theme=dark-smoky&hide_border=true" />
+  <img align="left" src="https://streak-stats.demolab.com?user=shresthaa24&theme=dark-smoky&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shresthaa24&theme=graywhite&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shresthaa24&theme=graywhite&show_icons=true" />
 </a></br>
 
 
