@@ -28,7 +28,7 @@
 <a href="https://www.hackerrank.com/shresthaa_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shresthaa_raj" height="30" width="40" /></a>
 </p>
  
- <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">My Skill set:</h3>
  
  <img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shresthaa24&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
  
