@@ -2,13 +2,13 @@
 ![SHRESTHA-2](https://user-images.githubusercontent.com/93245080/220993625-3d8c06f0-30d1-45a9-897e-88750599e97a.gif)
 
 
-<h1>
+<h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38E3F7&center=true&vCenter=true&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Shrestha;19y%2Fo+Front-end+developer" alt="Typing SVG" /></a>
-  </h1>
-  
+  </h2>
+ 
 <img align ="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
 
-<p align="left">  Visitors Count:<br>
+ <p align="left">  <h3>Visitors:</h3>
   <img src="https://profile-counter.glitch.me/shrestharaaj/count.svg" /></p>
 
 - 🔭 I’m currently working on **my portfolio website**
