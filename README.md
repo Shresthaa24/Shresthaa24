@@ -1,4 +1,4 @@
-![Shrestha Raj](https://user-images.githubusercontent.com/93245080/222908416-04ab0a14-0473-4e62-af87-5381c0c50bcb.gif)
+![Shrestha Raj-2](https://user-images.githubusercontent.com/93245080/222909149-45118003-efcf-4184-9444-ef29562008ea.gif)
 
 
 <h2>
