@@ -7,24 +7,24 @@
  
 <img align ="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
 
- <p align="left">  <h3>Visitors:</h3>
+ <h3><p align="left">  Visitors:
   <img src="https://profile-counter.glitch.me/shrestharaaj/count.svg" /></p>
-
+</h3>
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **Web Development **
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Python, Java, C**
+- 💬 Ask me about **Python, Java & C**
 
-- 📫 How to reach me **shresthaa.raj@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:
 <p align="left">
 <a href="https://twitter.com/ahtserhs6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahtserhs6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shrestha-raj-00600b25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrestha raj" height="30" width="40" /></a>
 <a href="https://instagram.com/shresthaa.raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shresthaa.raj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shresthaa_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shresthaa_raj" height="30" width="40" /></a>
-</p>
+</p></h3>
  
  <h3 align="left">My Skill set:</h3>
  
