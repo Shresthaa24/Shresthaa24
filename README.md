@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **Web Development & Data Science**
+- 🌱 I’m currently learning **Web Development **
 
-- 💬 Ask me about **Python, Front end , UI/UX designing.**
+- 💬 Ask me about **Python, Java, C**
 
 - 📫 How to reach me **shresthaa.raj@outlook.com**
 
