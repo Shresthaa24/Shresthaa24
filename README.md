@@ -1,4 +1,4 @@
-![Shrestha Raj-2](https://user-images.githubusercontent.com/93245080/222909149-45118003-efcf-4184-9444-ef29562008ea.gif)
+![Shrestha Raj](https://user-images.githubusercontent.com/93245080/224891875-fc615530-c5e0-4faf-8ce7-34dd3a5def69.jpg)
 
 
 <h2>
@@ -7,9 +7,9 @@
  
 <img align ="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
 
- <h3><p align="left">  Visitors:
+ <h3><p align="left">  Visitors:</h3>
   <img src="https://profile-counter.glitch.me/shrestharaaj/count.svg" /></p>
-</h3>
+
 
 - 🔭 I’m currently working on **my portfolio website**
 
