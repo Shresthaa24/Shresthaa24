@@ -12,7 +12,7 @@
   <img src="https://profile-counter.glitch.me/shrestharaaj/count.svg" /></p>
 
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **python projects**
 
 - 🌱 I’m currently learning **Web Development**
 
