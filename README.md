@@ -39,6 +39,6 @@
 </br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrestharaaj&theme=graywhite&show_icons=true" />
-</a></br>
-
+</a></br></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrestharaaj&show_icons=true&theme=dark&locale=en&layout=compact" alt="shrestharaaj" /></p>
 
