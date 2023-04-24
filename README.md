@@ -5,16 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&color=7DF7DB&background=FFFFFF00&center=true&width=435&lines=Welcome+to+my+Github.;Hi%2C+I'm+Shrestha." alt="Typing SVG" /></a>
   </h2>
   
- 
-
-
-- 🔭 I’m currently working on **python projects**
-
-- 🌱 I’m currently learning **machine learning**
-
-- 💬 Ask me about **Python, Java & C**
-
-
+**Tech enthusiast, coding wizard, and machine learning researcher. Let's create something awesome together**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
