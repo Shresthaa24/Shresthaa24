@@ -8,13 +8,9 @@
  
 <img align ="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
 
- <h3><p align="left">  Visitors:</h3>
-  <img src="https://profile-counter.glitch.me/shrestharaaj/count.svg" /></p>
-
-
 - 🔭 I’m currently working on **python projects**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **machine learning**
 
 - 💬 Ask me about **Python, Java & C**
 
@@ -36,9 +32,17 @@
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com?user=shrestharaaj&theme=dark-smoky&hide_border=false" />
 </a>
-</br></br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrestharaaj&theme=graywhite&show_icons=true" />
-</a></br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrestharaaj&show_icons=true&theme=dark&locale=en&layout=compact" alt="shrestharaaj" /></p>
-
+<br><br>
+<p>
+<a href="https://github.com/shrestharaaj">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrestharaaj&show_icons=true&theme=dark&locale=en&layout=compact" alt="shrestharaaj" />
+</a>
+<a href="https://github.com/shrestharaaj">
+ <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shrestharaaj&theme=graywhite&show_icons=true" />
+</a>
+</a>
+<p>
+<br>
+  
+ <h2>Visitors:</h2>
+  <img align="center" src="https://profile-counter.glitch.me/shrestharaaj/count.svg" />
