@@ -4,9 +4,9 @@
 <h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&color=7DF7DB&background=FFFFFF00&center=true&width=435&lines=Welcome+to+my+Github.;Hi%2C+I'm+Shrestha." alt="Typing SVG" /></a>
   </h2>
-  
-**Tech enthusiast, coding wizard, and machine learning researcher. Let's create something awesome together**
-
+ <h3> 
+Tech enthusiast, coding wizard, and machine learning researcher. Let's create something awesome together
+</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shrestharaj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahtserhs6" height="30" width="40" /></a>
