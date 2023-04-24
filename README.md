@@ -43,6 +43,7 @@
 </a>
 <p>
 <br>
-  
- <h2>Visitors:</h2>
+  <p align="center">
+ Visitors:<br>
   <img align="center" src="https://profile-counter.glitch.me/shrestharaaj/count.svg" />
+</p>
