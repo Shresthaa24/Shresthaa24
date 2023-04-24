@@ -6,7 +6,7 @@
   </h2>
   
  
-<img align ="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
+
 
 - 🔭 I’m currently working on **python projects**
 
