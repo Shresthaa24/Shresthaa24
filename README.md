@@ -26,13 +26,14 @@ Tech enthusiast, coding wizard, and machine learning researcher. Let's create so
 </a>
 <br><br>
 <p>
-<a href="https://github.com/shrestharaaj">
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrestharaaj&show_icons=true&theme=dark&locale=en&layout=compact" alt="shrestharaaj" />
-</a>
+
 <a href="https://github.com/shrestharaaj">
  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shrestharaaj&theme=graywhite&show_icons=true" />
 </a>
+  <a href="https://github.com/shrestharaaj">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrestharaaj&show_icons=true&theme=dark&locale=en&layout=compact" alt="shrestharaaj" />
 </a>
+
 <p>
 <br>
   <p align="center">
