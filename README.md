@@ -40,10 +40,6 @@ Tech enthusiast, coding wizard, and machine learning researcher. Let's create so
   <img align="center" src="https://profile-counter.glitch.me/shrestharaaj/count.svg" />
 </p>
 
- <p align="center">
- <b>Developer Meme</b><br><br>
-  <img align="center" src="https://rm.up.railway.app/" width="320px" />
-</p
 
 
 
