@@ -7,8 +7,6 @@
  <h3> 
 Tech enthusiast, coding wizard, and machine learning researcher. Let's create something awesome together!
 </h3>
-# 💫 About Me:
-🔭 I’m currently working on machine projects<br>👯 I’m looking to collaborate on ml based projects<br>🌱 I’m currently doing machine learning specialisation.<br>💬 Ask me about python, C, java.<br>⚡ Fun fact I make cinematic vlogs on YouTube.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,13 +36,13 @@ Tech enthusiast, coding wizard, and machine learning researcher. Let's create so
 <p>
 <br>
   <p align="center">
- Visitors:<br>
+ <b>Visitors:<b><br>
   <img align="center" src="https://profile-counter.glitch.me/shrestharaaj/count.svg" />
 </p>
 
  <p align="center">
- 😂 Random Dev Meme<br>
-  <img align="center" src="https://rm.up.railway.app/" width="400px" />
+ <b>Developer Meme</b><br><br>
+  <img align="center" src="https://rm.up.railway.app/" width="320px" />
 </p
 
 
