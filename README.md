@@ -1,4 +1,4 @@
-![Shrestha Raj](https://user-images.githubusercontent.com/93245080/224891875-fc615530-c5e0-4faf-8ce7-34dd3a5def69.jpg)
+![Shrestha Raj](https://user-images.githubusercontent.com/93245080/236623560-3a318478-ea18-43e6-82f6-572ffb9d8c44.png)
 
 
 <h2>
@@ -6,7 +6,8 @@
   </h2>
  <h3> 
 Tech enthusiast, coding wizard, and machine learning researcher. Let's create something awesome together!
-</h3>
+</h3>![Shrestha Raj](https://user-images.githubusercontent.com/93245080/236623523-7465ad66-bcca-4bbd-b201-19489843acf2.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
