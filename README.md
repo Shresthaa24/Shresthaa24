@@ -1,4 +1,4 @@
-![Shrestha Raj](https://user-images.githubusercontent.com/93245080/236623560-3a318478-ea18-43e6-82f6-572ffb9d8c44.png)
+![Shrestha Raj](https://github.com/shrestharaaj/Shrestharaaj/assets/93245080/d313f5fc-118a-43e2-971b-afc5a2a48149)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=838BFF&center=true&width=435&lines=Welcome+to+my+GitHub.;Hi%2C+I'm+a+machine+learning+enthusiast." alt="Typing SVG" /></a>
